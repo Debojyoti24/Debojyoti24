@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on full stack projects and Java projects, exploring new ways to build dynamic and responsive web applications.<br><br>🧑🤝🧑 I’m looking to collaborate on innovative software development initiatives, especially those focused on end-to-end  user experience.<br><br>🤝 I’m looking for help with optimizing backend integration and improving API performance.<br><br>🌱 I’m currently learning as I pursue my MCA, diving deeper into computer science fundamentals and modern programming practices.<br><br>
+🔭 I’m currently developing full-stack and Java projects, focusing on creating dynamic, responsive, and user-friendly web applications.<br><br>🧑🤝🧑 I’m looking to collaborate on innovative software development initiatives, especially those focused on end-to-end  user experience.<br><br>🤝 I’m looking for help with optimizing backend integration and improving API performance.<br><br>🌱 I’m currently learning as I pursue my MCA, diving deeper into computer science fundamentals and modern programming practices.<br><br>
 
 
 # 💻 Tech Stack:
