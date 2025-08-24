@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently advancing in full-stack and Java development, I specialize in building dynamic, responsive, and intuitive web applications that deliver exceptional user experiences.<br><br>🧑🤝🧑 I’m looking to collaborate on innovative software development initiatives, especially those focused on end-to-end  user experience.<br><br>🤝 I’m looking for help with optimizing backend integration and improving API performance.<br><br>🌱 I’m currently learning as I pursue my MCA, diving deeper into computer science fundamentals and modern programming practices.<br><br>
+🚀 Currently advancing in full-stack and Java development, I specialize in building dynamic, responsive, and intuitive web applications that deliver exceptional user experiences.<br><br>🤝 Eager to collaborate on cutting-edge software projects, with a strong focus on seamless end-to-end functionality and innovation.<br><br>🤝 I’m looking for help with optimizing backend integration and improving API performance.<br><br>🌱 I’m currently learning as I pursue my MCA, diving deeper into computer science fundamentals and modern programming practices.<br><br>
 
 
 # 💻 Tech Stack:
