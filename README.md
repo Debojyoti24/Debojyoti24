@@ -1,4 +1,4 @@
-  #                                                                                       Hi there, I'm Debojyoti 👋
+<h1 align="center">Hi there, I'm Divya Sharma 👋</h1>
 🚀 Currently advancing in full-stack and Java development, I specialize in building dynamic, responsive, and intuitive web applications that deliver exceptional user experiences.<br><br>🤝 Eager to collaborate on cutting-edge software projects, with a strong focus on seamless end-to-end functionality and innovation.<br><br>🔧 Seeking expertise to optimize backend integration and enhance API performance for scalable, efficient systems.<br><br>🎓 As an MCA student, I’m deepening my knowledge of core computer science principles and modern programming techniques to stay at the forefront of technology.
 
 
