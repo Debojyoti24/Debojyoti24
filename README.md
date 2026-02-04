@@ -1,7 +1,7 @@
 <!-- <h1 align="center">Hi there, I'm Debojyoti Bhattacherjee👋</h1> -->
 <!-- <h3 align="center">Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3> -->
 
-🚀 Currently advancing in full-stack and Java development, I specialize in building dynamic, responsive, and intuitive web applications that deliver exceptional user experiences.<br><br>🤝 Eager to collaborate on cutting-edge software projects, with a strong focus on seamless end-to-end functionality and innovation.<br><br>🔧 Seeking expertise to optimize backend integration and enhance API performance for scalable, efficient systems.<br><br>🎓 As an MCA student, I’m deepening my knowledge of core computer science principles and modern programming techniques to stay at the forefront of technology..
+🚀 Currently  advancing in full-stack and Java development, I specialize in building dynamic, responsive, and intuitive web applications that deliver exceptional user experiences.<br><br>🤝 Eager to collaborate on cutting-edge software projects, with a strong focus on seamless end-to-end functionality and innovation.<br><br>🔧 Seeking expertise to optimize backend integration and enhance API performance for scalable, efficient systems.<br><br>🎓 As an MCA student, I’m deepening my knowledge of core computer science principles and modern programming techniques to stay at the forefront of technology..
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
