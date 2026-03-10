@@ -9,3 +9,24 @@
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
     <strong>About Me</strong>
   </h2>
+
+
+
+ <pre>
+<code>yaml
+name: Debojyoti Bhattacherjee
+location: Beleghata, kolkata
+role:Fullstack Developer / Backend Developer / Frontend Developer
+education: 
+  - "MCA"
+
+fields_of_interests:
+  - "Fullstack "
+  - "Android Developer"
+  - "AI/ML"
+
+internships:
+  - "CodeAlpha Java Intership (2m}"
+  - Android developer Intern (present)
+</code>
+  </pre
