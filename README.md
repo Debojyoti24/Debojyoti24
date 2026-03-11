@@ -29,4 +29,12 @@ internships:
   - "CodeAlpha Java Intership (2m}"
   - Android developer Intern (present)
 </code>
-  </pre
+ </pre>
+
+
+ <h4>🔭 <strong>Building </strong>
+  <a href="https://bitsinbinary.com" target="_blank" rel="noopener noreferrer">
+    BitsInBinary
+  </a>
+  — an evolving learning ecosystem for coding, AI, and future engineers 🚀
+</h4>
