@@ -38,3 +38,6 @@ internships:
   </a>
   — an evolving learning ecosystem for coding, AI, and future engineers 🚀
 </h4>
+<br clear="both">
+
+<div align="left">
