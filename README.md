@@ -32,12 +32,4 @@ internships:
  </pre>
 
 
- <h4>🔭 <strong>Building </strong>
-  <a href="https://bitsinbinary.com" target="_blank" rel="noopener noreferrer">
-    BitsInBinary
-  </a>
-  — an evolving learning ecosystem for coding, AI, and future engineers 🚀
-</h4>
-<br clear="both">
 
-<div align="left">
