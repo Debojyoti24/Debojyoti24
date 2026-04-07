@@ -31,5 +31,16 @@ internships:
 </code>
  </pre>
 
+## 📧 **How to reach me:**
 
+<p>
+<a href="mailto:bhattacharyadebojyoti2@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://my-portfolio-sage-seven-13.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
+</p>
+
+</div>
 
